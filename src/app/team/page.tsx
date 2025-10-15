@@ -54,9 +54,9 @@ export default function TeamPage() {
                     <img
                       src={member.image}
                       alt={member.name}
-                      className="w-32 h-32 rounded-full object-cover mx-auto border-4 border-[#00C853]"
+                      className="w-48 h-48 rounded-full object-cover mx-auto border-4 border-[#00C853]"
                     />
-                    <div className="absolute -bottom-2 -right-2 w-10 h-10 bg-gradient-eco rounded-full flex items-center justify-center text-white text-xl">
+                    <div className="absolute -bottom-2 -right-2 w-12 h-12 bg-gradient-eco rounded-full flex items-center justify-center text-white text-2xl">
                       ✓
                     </div>
                   </div>
