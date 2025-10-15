@@ -7,21 +7,21 @@ const teamMembers = [
     name: 'Sidhant Mattoo',
     role: 'Core Web Developer',
     email: 'sidhant.mattoo24@pccoepune.org',
-    image: 'https://drive.google.com/uc?export=view&id=1n-cmDrTrpnqZx0YWZ42NqiRB6YtrZZui',
+    image: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/document-uploads/SID-1760513059285.jpg',
     description: 'Full-stack developer specializing in modern web technologies and sustainable tech solutions.'
   },
   {
     name: 'Harshit Pandita',
     role: 'Debugger & Quality Lead',
     email: 'harshit.pandita24@pccoepune.org',
-    image: 'https://drive.google.com/uc?export=view&id=1bMxxfF6K3MPt2STHRFRtheVM8LJ78uCs',
+    image: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/document-uploads/HARSHIT-1760513059533.jpg',
     description: 'Expert in code quality, testing, and ensuring robust application performance.'
   },
   {
     name: 'Shrejal Bhardwaj',
     role: 'Research Lead',
     email: 'shrejal.bhardwaj24@pccoepune.org',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop',
+    image: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/document-uploads/SHREJAL-1760513059793.jpg',
     description: 'Leading research on e-waste management, circular economy models, and sustainability practices.'
   }
 ]
